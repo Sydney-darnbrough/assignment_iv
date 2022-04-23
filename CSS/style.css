@@ -1,7 +1,29 @@
 body {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #304d63;
+    color: #f2d096;
 }
 
-ul {
+dl {
     text-align: left;
+    font-size: 20px;
+}
+
+h1 {
+    color: #ed8975;
+    font-size: 40px;
+}
+
+h3 {
+    color: #f2d096;
+    font-size: 35;
+}
+
+a {
+    color: #b2e7e8;
+}
+
+a:hover {
+    color: #ed8975;
 }

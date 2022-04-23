@@ -1,9 +1,13 @@
 h1 {
     text-align: center;
+    color: #b2e7e8;;
+    font-size: 40px;
 }
 
 h3 {
     text-align: center;
+    color: #f2d096;
+    font-size: 35;
 }
 
 img {
@@ -13,8 +17,15 @@ img {
 
 body {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #304d63;
+    color: #f2d096;
 }
 
 #container {
-   background-color: rgb(112, 112, 112);
+   background-color: #ed8975;
+}
+
+strong {
+    color: #ed8975;
 }
